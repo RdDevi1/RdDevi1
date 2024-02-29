@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **Combine & SwiftUI**
 
+<h3 align="left">Connect with me:</h3>
 - 📲 Telegram [https://t.me/vi_anp](https://t.me/vi_anp)
 
 - 📫 Mail **anpilov.vitaly@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
