@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitaly</h1>
 <h3 align="center">I like iOS🍏, sport and surfing🏄🏻‍♂️</h3>
 
-- 🔭 I’m currently working & collaborate on [Notes](https://github.com/shishmakovaDaria/Notes)
+- 🔭 I’m currently working & collaborate on [groundhopper](https://groundhopper.ru/?ysclid=lt6zwg1nip811447827)
 
-- 🌱 I’m currently learning **Combine & RxSwift**
+- 🌱 I’m currently learning **Combine & SwiftUI**
 
 - 📲 Telegram [https://t.me/vi_anp](https://t.me/vi_anp)
 
