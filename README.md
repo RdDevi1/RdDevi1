@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Combine & RxSwift**
 
-- 📲 Telegram [https://t.me/Red_devi1](https://t.me/Red_devi1)
+- 📲 Telegram [https://t.me/vi_anp](https://t.me/vi_anp)
 
 - 📫 Mail **anpilov.vitaly@gmail.com**
 
